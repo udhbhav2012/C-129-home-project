@@ -1,0 +1,29 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    color: blue;
+    font-family: fantasy;
+}
+.note
+{
+  font-size: 15px;
+  font-family: sans-serif;
+  color: black;
+}
+body
+{
+    background-size: cover;
+}
+.note
+{
+    color: black;
+}
+canvas
+{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px red;
+    padding: 20px;
+    margin: 100px;
+}
